@@ -31,7 +31,9 @@ navbar-links:
   Community:
     - About: "about"
     - RSE Groups: "rse-groups"
-    - Steering Committee: "featured-users"
+    - Steering Committee: "steering-committee"
+  Resources: 
+    - Events & Training: "events-training"
   Get involved: 
     - Join US-RSE: "join"
   Careers: "jobs"
