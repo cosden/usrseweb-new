@@ -29,12 +29,14 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   Community:
-    - About: "getstarted"
+    - About: "about"
+    - RSE Groups: "rse-groups"
     - Steering Committee: "featured-users"
-    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
-  Join Us: "http://deanattali.com"
-  Job Openings: "http://deanattali.com/aboutme/#feed-meeee"
-
+  Get involved: 
+    - Join US-RSE "join"
+  Careers: 
+    - Current Openings "jobs"
+    
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
