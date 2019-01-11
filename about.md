@@ -1,11 +1,11 @@
 ---
 layout: page
 title: US RSE About
-subtitle: 
-bigimg: /img/start.jpg
+subtitle:
+bigimg:
 ---
 
-**USRSE** is getting started 
+**USRSE** is getting started
 
 <div class="get-started-wrap">
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/cosden/usrseweb-new">Join Us!</a>
@@ -13,8 +13,6 @@ bigimg: /img/start.jpg
 <br/>
 
 ## The United States (US) Research Software Engineer Community
-
-## New for 2019
 
 The increasing use of digital technologies across research communities has gone hand
 in hand with a strong growth and reliance on software written or customized to solve
