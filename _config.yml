@@ -33,9 +33,8 @@ navbar-links:
     - RSE Groups: "rse-groups"
     - Steering Committee: "featured-users"
   Get involved: 
-    - Join US-RSE "join"
-  Careers: 
-    - Current Openings "jobs"
+    - Join US-RSE: "join"
+  Careers: "jobs"
     
 # --- Footer options --- #
 
